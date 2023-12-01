@@ -1,1 +1,1 @@
-web: gunicorn electrorepair.wsgi
+web: gunicorn UserAuthSystem.wsgi
